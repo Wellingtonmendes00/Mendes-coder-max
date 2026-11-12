@@ -20,6 +20,13 @@
 
 ---
 
+## 💻 Projetos Desenvolvidos
+
+- 🛒 **Automação de Vendas:** Site desenvolvido para gerar automação na venda de produtos que antes eram realizados de forma 100% manual.
+- 📋 **Gestão e Validação de Dados:** Site desenvolvido para criação, validação e exportação de dados de clientes para empresa.
+
+---
+
 ## 🛠️ Ferramentas e Tecnologias
 
 <div align="center">
