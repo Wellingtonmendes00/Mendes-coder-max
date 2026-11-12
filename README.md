@@ -73,8 +73,6 @@
 
 ### 🚀 me aventurando por aqui e construindo soluções reais
 
-</div>/giphy.gif" width="300">
 
-### 🚀 me aventurando por aqui
 
 </div>
